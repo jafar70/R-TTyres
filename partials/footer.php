@@ -49,7 +49,7 @@
             <div class="grid grid-pad">
                 <div class="row">
                     <div class="col-1-1 text-center">
-                        <p>Copyright © 2017 <a href="https://www.resknow.co.uk/" target="blank"> Resknow</a> / All rights reserved.</p>
+                            <p>Copyright © 2017 <a href="https://josalami.herokuapp.com/" target="blank"> Jafar Salami</a> / All rights reserved.</p>
                     </div>
 
                 </div>
